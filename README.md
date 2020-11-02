@@ -150,21 +150,21 @@ visualization modules or build predictive modules.
 
 5. "Transfer Learning using Representation Learning in Massive Online Open Courses", Mucong Ding, Yanbang Wang, Erik Hemberg and Una-May O'Reilly, LAK 2019, Tempe AZ 
 
-6. The Influence of Grades on Learning Behavior of Students in MOOCs. Li Wang, M.Eng., MIT-EECS, June 2019. 
+6. "The Influence of Grades on Learning Behavior of Students in MOOCs." Li Wang, M.Eng., MIT-EECS, June 2019. 
 
-7. Analyzing Student Learning Trajectories in an Introductory Programming MOOC. Ayesha Bajwa, M.Eng., MIT-EECS, June 2019. 
+7. "Analyzing Student Learning Trajectories in an Introductory Programming MOOC." Ayesha Bajwa, M.Eng., MIT-EECS, June 2019. 
 
-8. Categorizing Resources Workshop Papers and Learners for a Finer-Grained Analysis of MOOC Viewing & Doing. Erik Hemberg, Sagar Biswas, Ayesha Bajwa, Nancy Law, Una-May O'Reilly. Learning With MOOCs, 2019.
+8. "Categorizing Resources Workshop Papers and Learners for a Finer-Grained Analysis of MOOC Viewing & Doing." Erik Hemberg, Sagar Biswas, Ayesha Bajwa, Nancy Law, Una-May O'Reilly. Learning With MOOCs, 2019.
 
-9. Analyzing Student Code Trajectories in an Introductory Programming MOOC. Ayesha Bajwa, Erik Hemberg, Ana Bell, Una-May O'Reilly. Learning With MOOCs, 2019.
+9. "Analyzing Student Code Trajectories in an Introductory Programming MOOC." Ayesha Bajwa, Erik Hemberg, Ana Bell, Una-May O'Reilly. Learning With MOOCs, 2019.
 
-10. The Influence of Grades on Learning Behavior in MOOCs: Certification vs. Continued Participation. Li Wang, Erik Hemberg, Una-May O'Reilly. Learning With MOOCs, 2019.
+10. "The Influence of Grades on Learning Behavior in MOOCs: Certification vs. Continued Participation." Li Wang, Erik Hemberg, Una-May O'Reilly. Learning With MOOCs, 2019.
 
-11. How Student Back- ground and Topic Impact the Doer Effect in Computational Thinking MOOCs. Jitesh Maiyuran, Ayesha Bajwa, Erik Hemberg, Ana Bell, Una-May O'Reilly. Learning With MOOCs, 2019. Best Student Paper Award
+11. "How Student Back- ground and Topic Impact the Doer Effect in Computational Thinking MOOCs." Jitesh Maiyuran, Ayesha Bajwa, Erik Hemberg, Ana Bell, Una-May O'Reilly. Learning With MOOCs, 2019. Best Student Paper Award
 
-12. Using Detailed Access Trajectories for Learning Behavior Analysis. Yanbang Wang, Nancy Law, Erik Hemberg, Una-May O'Reilly,  International Learning Analytics and Knowledge Conference, 2019.
+12. "Using Detailed Access Trajectories for Learning Behavior Analysis." Yanbang Wang, Nancy Law, Erik Hemberg, Una-May O'Reilly,  International Learning Analytics and Knowledge Conference, 2019.
 
-13. Understanding Learner Behavior Through Learning Design Informed Learning Analytics.  Shen. H, Hemberg. E, Leming. L, Law. N and O'Reilly, U.-M., accepted by Learning At Scale 2020.
+13. "Understanding Learner Behavior Through Learning Design Informed Learning Analytics."  Shen. H, Hemberg. E, Leming. L, Law. N and O'Reilly, U.-M., accepted by Learning At Scale 2020.
 ## Requirements
 
 ### OS
