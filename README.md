@@ -37,6 +37,8 @@ computation.
       <p>MOOC-Learner-Data-Science-Analytics</p>
       <a href="https://github.com/MOOC-Learner-Project/MOOC-Learner-Data-Science-Analytics"><img src="https://img.shields.io/badge/MOOC%20Learner%20Data%20Science%20Analytics--green.svg?style=social&logo=github&label=MOOC-Learner-Data-Science-Analytics" height="20"></a></br>
 	  <a href="https://github.com/MOOC-Learner-Project/MOOC-Learner-BigQuery-Data-Science-Analytics"><img src="https://img.shields.io/badge/MOOC%20Learner%20BigQuery%20Data%20Science%20Analytics--green.svg?style=social&logo=github&label=MOOC-Learner-BigQuery-Data-Science-Analytics" height="20"></a>
+	  <a href="https://github.com/MOOC-Learner-Project/Blended-Learner-Data-Science"><img src="https://img.shields.io/badge/Blended%20Learner%20Data%20Science--green.svg?style=social&logo=github&label=Blended-Learner-Data-Science" height="20"></a>
+	  <a href="https://github.com/MOOC-Learner-Project/MOOC-Learner-Reflection-Analytics"><img src="https://img.shields.io/badge/MOOC%20Learner%20Reflection%20Analytics--green.svg?style=social&logo=github&label=MOOC-Learner-Reflection-Analytics" height="20"></a>
     </th>
   <tr>
    <tr>
